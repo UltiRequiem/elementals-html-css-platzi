@@ -1,0 +1,19 @@
+{
+  "name": "definite-course-html-css-platzi",
+  "version": "1.0.0",
+  "description": "Platzi Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltiRequiem/Definite-Course-HTML-CSS-Platzi.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UltiRequiem/Definite-Course-HTML-CSS-Platzi/issues"
+  },
+  "homepage": "https://github.com/UltiRequiem/Definite-Course-HTML-CSS-Platzi#readme"
+}
