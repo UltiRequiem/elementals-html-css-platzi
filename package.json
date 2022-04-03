@@ -4,7 +4,8 @@
   "description": "Platzi Course",
   "main": "index.js",
   "scripts": {
-    "start": "npx live-server ."
+    "start": "npx live-server .",
+    "lint": "prettier --check '**/*.{js,json,md,css}'"
   },
   "repository": {
     "type": "git",
